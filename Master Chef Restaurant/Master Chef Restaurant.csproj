@@ -16,4 +16,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Master-Chef-Restaurant.Entities\Master-Chef-Restaurant.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
