@@ -14,6 +14,6 @@
 
  - Click on the **New** button
  - Write the Repo Name
- - Add Desription **Optional**, then choose between **private** Or **public**, **if you want to anyone see the updates on the repo, choose on **public**, if you don't want this, choose on **private**
+ - Add Desription **Optional**, then choose between **private** Or **public**, if you want to anyone see the updates on the repo, choose on **public**, if you don't want this, choose on **private**
  - Add Readme.File
  - The repo has been created successfully! 
